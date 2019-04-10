@@ -5,10 +5,10 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app2"
 version = "1.0.0">
 
-<name> app4-Día de la Madre Tierra </name>
+<name> app4-Dia de la Madre Tierra </name>
 
 <description>
-Información sobre el Día de la Madre Tierra
+Información sobre el Dia de la Madre Tierra
 </description>
 
 <author href="https://build.phonegap.com" email="cb16.hernandez.ramirez.kevinf@gmail.com">
